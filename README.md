@@ -6,24 +6,20 @@ This project conducts a comprehensive analysis of the U.S. Department of Educati
 ## Research Questions and Findings
 1. **Earnings by Institution**
    - Analysis of top 20 and bottom 20 universities by graduate median earnings (5 years post-graduation)
-   - [Key findings to be added with visualizations]
 
 2. **Field of Study Analysis**
    - Comparison of highest and lowest earning fields
    - Popularity analysis with enrollment numbers
-   - [Visualization references and key statistics]
 
 3. **Gender Distribution/Earnings Analysis**
    - Gender patterns within earnings data
    - Field of study gender distribution trends
-   - [Statistical findings and visual representations]
 
 4. **Institution Type Comparison**
    - Public vs. Private institution earnings analysis
-   - [Comparative statistics and visualizations]
 
 ## Technologies Used
-- Python (version [X])
+- Python (version 3.9.6)
 - Pandas for data manipulation and analysis
 - Matplotlib for data visualization
 - Git/GitHub for version control
