@@ -63,15 +63,34 @@ jupyter notebook
 ## Analysis Results
 [Detailed findings with supporting visualizations to be added]
 ![Top 20 Mean Earnings For Colleges](/Images/top20meanearnings.png "top20meanearnings")
+Primary Focus: Schools with strong Health Sciences and Medical Education programs 
+Goal: Training healthcare professionals in various medical fields (e.g., medicine, dentistry, nursing) and advancing medical research through STEM disciplines.
+Mean earnings >$150K 5 years from graduation (adjusted)
 ![Bottom 20 Mean Earnings For Colleges](/Images/bottom20meanearnings.png "bottom20meanearnings")
+Primary Focus: Vocational training in cosmetology, barbering, and beauty.
+Goal: Equipping students with practical skills for the beauty industry, often reflecting regional and cultural influences.
+Mean earnings <$15K 
+5 years from graduation (adjusted)
 ![Top 20 5 Year Earnings](/Images/5YearMalesVsNonMalesTop20FieldOfStudy.png "5YearMalesVsNonMalesTop20FieldOfStudy")
+Advanced Dentistry/Oral Sciences graduates earn the most of any field of study 
+High Earnings Fields of Study analysis suggests that advanced degrees combined with specialized professional expertise can lead to better career outcomes
 ![Bottom 20 5 Year Earnings](/Images/5YearMalesVsNonMalesBottom20FieldOfStudy.png "5YearMalesVsNonMalesBottom20FieldOfStudy")
+Cosmetology and Related Grooming graduates earn the least of any field of study 
+Lowest Earning Fields involve hands-on, vocational training or associate degrees in areas like cosmetology, culinary arts, and healthcare support
 ![Top 20 Most Popular Field Of Study](/Images/output.png "output")
+Most Popular Fields of study (by count) include social sciences and humanities; practical vocations such as criminal justice, accounting, and healthcare clinicians are also popular
+Least popular fields included a large list with N=1 (therefore excluded)
 ![corelationbetween5yearearningsandcounttop20](/Images/corelationbetween5yearearningsandcounttop20.png "corelationbetween5yearearningsandcounttop20")
+Highest Earning Fields in the dataset have relatively low numbers of student graduates (<30) with 3 notable exceptions - Medicine (156), Pharmacy (146) and Dentistry(64)
 ![malevsnonmale](/Images/malevsnonmale.png "malevsnonmale")
 ![malevsnonmalepie](/Images/malevsnonmalepie.png "malevsnonmalepie")
+Despite nearly 50/50 gender distribution,  there is a significant earnings gap between male and female graduates
+The gap is pronounced in some, such as the U of Pikeville, where the difference exceeds $100K
 ![5YearMalesVsNonMalesTop20](/Images/5YearMalesVsNonMalesTop20.png "5YearMalesVsNonMalesTop20")
+A Significant Gender Gap Persists in the top earnings Fields…only 3 of the top earnings fields (Medicine, Operations Research and Computer Science) have closed the gender gap.
 ![5YearMalesVsNonMalesBottom20](/Images/5YearMalesVsNonMalesBottom20.png "5YearMalesVsNonMalesBottom20")
+Male graduates earn more than Female graduates in the Bottom earning fields -  with 3 exceptions: Mind Body Therapies, Carpentry, and Drama
+![Screenshot 2024-11-19 205740](/Images/Screenshot_2024-11-19_205740.png "Screenshot 2024-11-19 205740")
 
 ## Future Analysis Considerations
 1. **Longitudinal Analysis**
