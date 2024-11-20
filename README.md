@@ -62,7 +62,17 @@ jupyter notebook
 
 ## Analysis Results
 [Detailed findings with supporting visualizations to be added]
-![top20 Mean Earnings For Colleges](/Images/top20meanearnings.png "top20meanearnings")
+![Top 20 Mean Earnings For Colleges](/Images/top20meanearnings.png "top20meanearnings")
+![Bottom 20 Mean Earnings For Colleges](/Images/bottom20meanearnings.png "bottom20meanearnings")
+![Top 20 5 Year Earnings](/Images/5YearMalesVsNonMalesTop20FieldOfStudy.png "5YearMalesVsNonMalesTop20FieldOfStudy")
+![Bottom 20 5 Year Earnings](/Images/5YearMalesVsNonMalesBottom20FieldOfStudy.png "5YearMalesVsNonMalesBottom20FieldOfStudy")
+![Top 20 Most Popular Field Of Study](/Images/output.png "output")
+![What is the Popularity of Highest Earning Fields of Study?](/Images/corelationbetween5yearearningsandcounttop20.png "corelationbetween5yearearningsandcounttop20")
+![Top 20 Mean Earnings For Colleges](/Images/malevsnonmale.png "malevsnonmale")
+![Top 20 Mean Earnings For Colleges](/Images/top20meanearnings.png "top20meanearnings")
+![Top 20 Mean Earnings For Colleges](/Images/top20meanearnings.png "top20meanearnings")
+![Top 20 Mean Earnings For Colleges](/Images/top20meanearnings.png "top20meanearnings")
+![Top 20 Mean Earnings For Colleges](/Images/top20meanearnings.png "top20meanearnings")
 
 ## Future Analysis Considerations
 1. **Longitudinal Analysis**
