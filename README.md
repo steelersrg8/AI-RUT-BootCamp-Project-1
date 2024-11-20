@@ -61,7 +61,6 @@ jupyter notebook
 ```
 
 ## Analysis Results
-[Detailed findings with supporting visualizations to be added]
 ![Top 20 Mean Earnings For Colleges](/Images/top20meanearnings.png "top20meanearnings")
 Primary Focus: Schools with strong Health Sciences and Medical Education programs 
 Goal: Training healthcare professionals in various medical fields (e.g., medicine, dentistry, nursing) and advancing medical research through STEM disciplines.
