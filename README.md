@@ -90,7 +90,7 @@ The gap is pronounced in some, such as the U of Pikeville, where the difference 
 A Significant Gender Gap Persists in the top earnings Fields…only 3 of the top earnings fields (Medicine, Operations Research and Computer Science) have closed the gender gap.
 ![5YearMalesVsNonMalesBottom20](/Images/5YearMalesVsNonMalesBottom20.png "5YearMalesVsNonMalesBottom20")
 Male graduates earn more than Female graduates in the Bottom earning fields -  with 3 exceptions: Mind Body Therapies, Carpentry, and Drama
-![Screenshot 2024-11-19 205740](/Images/Screenshot_2024-11-19_205740.png "Screenshot 2024-11-19 205740")
+![tables.png](/Images/tables.png "tables")
 
 ## Future Analysis Considerations
 1. **Longitudinal Analysis**
