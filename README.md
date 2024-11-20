@@ -67,12 +67,11 @@ jupyter notebook
 ![Top 20 5 Year Earnings](/Images/5YearMalesVsNonMalesTop20FieldOfStudy.png "5YearMalesVsNonMalesTop20FieldOfStudy")
 ![Bottom 20 5 Year Earnings](/Images/5YearMalesVsNonMalesBottom20FieldOfStudy.png "5YearMalesVsNonMalesBottom20FieldOfStudy")
 ![Top 20 Most Popular Field Of Study](/Images/output.png "output")
-![What is the Popularity of Highest Earning Fields of Study?](/Images/corelationbetween5yearearningsandcounttop20.png "corelationbetween5yearearningsandcounttop20")
-![Top 20 Mean Earnings For Colleges](/Images/malevsnonmale.png "malevsnonmale")
-![Top 20 Mean Earnings For Colleges](/Images/top20meanearnings.png "top20meanearnings")
-![Top 20 Mean Earnings For Colleges](/Images/top20meanearnings.png "top20meanearnings")
-![Top 20 Mean Earnings For Colleges](/Images/top20meanearnings.png "top20meanearnings")
-![Top 20 Mean Earnings For Colleges](/Images/top20meanearnings.png "top20meanearnings")
+![corelationbetween5yearearningsandcounttop20](/Images/corelationbetween5yearearningsandcounttop20.png "corelationbetween5yearearningsandcounttop20")
+![malevsnonmale](/Images/malevsnonmale.png "malevsnonmale")
+![malevsnonmalepie](/Images/malevsnonmalepie.png "malevsnonmalepie")
+![5YearMalesVsNonMalesTop20](/Images/5YearMalesVsNonMalesTop20.png "5YearMalesVsNonMalesTop20")
+![5YearMalesVsNonMalesBottom20](/Images/5YearMalesVsNonMalesBottom20.png "5YearMalesVsNonMalesBottom20")
 
 ## Future Analysis Considerations
 1. **Longitudinal Analysis**
