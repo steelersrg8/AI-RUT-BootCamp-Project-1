@@ -24,18 +24,6 @@ This project conducts a comprehensive analysis of the U.S. Department of Educati
 - Matplotlib for data visualization
 - Git/GitHub for version control
 
-## Project Structure
-```
-college-scorecard-analysis/
-├── data/                    # Raw and processed dataset files
-├── notebooks/              # Jupyter notebooks with analysis
-│   ├── data_cleaning.ipynb     # Data preparation steps
-│   ├── earnings_analysis.ipynb # Earnings analysis
-│   └── gender_analysis.ipynb   # Gender distribution analysis
-├── visualizations/         # Generated plots and figures
-├── presentation/          # Presentation materials
-└── README.md             # Project documentation
-```
 
 ## Installation and Usage
 1. Clone the repository
