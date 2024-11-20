@@ -83,6 +83,7 @@ Least popular fields included a large list with N=1 (therefore excluded)
 Highest Earning Fields in the dataset have relatively low numbers of student graduates (<30) with 3 notable exceptions - Medicine (156), Pharmacy (146) and Dentistry(64)
 ![malevsnonmale](/Images/malevsnonmale.png "malevsnonmale")
 ![malevsnonmalepie](/Images/malevsnonmalepie.png "malevsnonmalepie")
+
 Despite nearly 50/50 gender distribution,  there is a significant earnings gap between male and female graduates
 The gap is pronounced in some, such as the U of Pikeville, where the difference exceeds $100K
 ![5YearMalesVsNonMalesTop20](/Images/5YearMalesVsNonMalesTop20.png "5YearMalesVsNonMalesTop20")
