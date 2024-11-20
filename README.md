@@ -63,6 +63,8 @@ jupyter notebook
 ## Analysis Results
 [Detailed findings with supporting visualizations to be added]
 
+![The San Juan Mountains are beautiful!](Images/top20meanearnings.png)
+
 ## Future Analysis Considerations
 1. **Longitudinal Analysis**
    - Track changes in earnings patterns over the dataset's time span
