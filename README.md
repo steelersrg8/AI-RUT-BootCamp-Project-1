@@ -100,7 +100,6 @@ Male graduates earn more than Female graduates in the Bottom earning fields -  w
 - Private, non-profit institutions have a moderate number of students and a moderate mean 5-year earnings. 
 - Private, for-profit institutions have a significant number of students, but their mean 5-year earnings are lower than private, non-profit institutions and foreign institutions.
 
-![The San Juan Mountains are beautiful!](Images/top20meanearnings.png)
 
 ## Future Analysis Considerations
 1. **Longitudinal Analysis**
