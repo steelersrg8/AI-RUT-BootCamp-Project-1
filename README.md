@@ -102,9 +102,11 @@ A Significant Gender Gap Persists in the top earnings Fields…only 3 of the top
 
 Male graduates earn more than Female graduates in the Bottom earning fields -  with 3 exceptions: Mind Body Therapies, Carpentry, and Drama
 
+**Public v.s. Private Institution Performance**
+
+
 ![tables.png](/Images/tables.png "tables")
 
-**In the College Scorecard Dataset:**
 - Public universities have the highest number of students, but they have the lowest mean 5-year earnings compared to private and foreign institutions. 
 - Foreign institutions have the highest mean 5-year earnings, but they have the lowest number of students. 
 - Private, non-profit institutions have a moderate number of students and a moderate mean 5-year earnings. 
