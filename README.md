@@ -5,7 +5,7 @@ This project conducts a comprehensive analysis of the U.S. Department of Educati
 
 ## Research Questions and Findings
 1. **Earnings by Institution**
-   - Analysis of top 20 and bottom 20 universities by graduate median earnings (5 years post-graduation)
+   - Analysis of top 20 and bottom 20 universities by graduate mean earnings (5 years post-graduation)
 
 2. **Field of Study Analysis**
    - Comparison of highest and lowest earning fields
