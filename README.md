@@ -62,6 +62,7 @@ jupyter notebook
 
 ## Analysis Results
 [Detailed findings with supporting visualizations to be added]
+![The San Juan Mountains are beautiful!](/images/images/top20meanearnings.png "top20meanearnings")
 
 ## Future Analysis Considerations
 1. **Longitudinal Analysis**
