@@ -62,7 +62,7 @@ jupyter notebook
 
 ## Analysis Results
 [Detailed findings with supporting visualizations to be added]
-![top20 Mean Earnings For Colleges](/images/top20meanearnings.png "top20meanearnings")
+![top20 Mean Earnings For Colleges](/Images/top20meanearnings.png "top20meanearnings")
 
 ## Future Analysis Considerations
 1. **Longitudinal Analysis**
